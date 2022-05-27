@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="domaine-sqlite" />
+        <module name="worker-server" />
+        <module name="job-master-server" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="domaine-sqlite" target="11" />
+      <module name="job-master-server" target="11" />
+      <module name="SpringKafkaM2" target="11" />
+      <module name="worker-server" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

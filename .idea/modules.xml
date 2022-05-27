@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/SpringKafkaM2.iml" filepath="$PROJECT_DIR$/SpringKafkaM2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/domaine-sqlite/domaine-sqlite.iml" filepath="$PROJECT_DIR$/domaine-sqlite/domaine-sqlite.iml" />
+      <module fileurl="file://$PROJECT_DIR$/job-master-server/job-master-server.iml" filepath="$PROJECT_DIR$/job-master-server/job-master-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/worker-server/worker-server.iml" filepath="$PROJECT_DIR$/worker-server/worker-server.iml" />
+    </modules>
+  </component>
+</project>
